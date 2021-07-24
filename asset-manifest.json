@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/monsters-mailbook/static/css/main.1f698ab0.chunk.css",
+    "main.js": "/monsters-mailbook/static/js/main.d5284630.chunk.js",
+    "main.js.map": "/monsters-mailbook/static/js/main.d5284630.chunk.js.map",
+    "runtime-main.js": "/monsters-mailbook/static/js/runtime-main.b5a94a19.js",
+    "runtime-main.js.map": "/monsters-mailbook/static/js/runtime-main.b5a94a19.js.map",
+    "static/css/2.d9011dda.chunk.css": "/monsters-mailbook/static/css/2.d9011dda.chunk.css",
+    "static/js/2.ba1dc782.chunk.js": "/monsters-mailbook/static/js/2.ba1dc782.chunk.js",
+    "static/js/2.ba1dc782.chunk.js.map": "/monsters-mailbook/static/js/2.ba1dc782.chunk.js.map",
+    "static/js/3.df466b01.chunk.js": "/monsters-mailbook/static/js/3.df466b01.chunk.js",
+    "static/js/3.df466b01.chunk.js.map": "/monsters-mailbook/static/js/3.df466b01.chunk.js.map",
+    "index.html": "/monsters-mailbook/index.html",
+    "static/css/2.d9011dda.chunk.css.map": "/monsters-mailbook/static/css/2.d9011dda.chunk.css.map",
+    "static/css/main.1f698ab0.chunk.css.map": "/monsters-mailbook/static/css/main.1f698ab0.chunk.css.map",
+    "static/js/2.ba1dc782.chunk.js.LICENSE.txt": "/monsters-mailbook/static/js/2.ba1dc782.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5a94a19.js",
+    "static/css/2.d9011dda.chunk.css",
+    "static/js/2.ba1dc782.chunk.js",
+    "static/css/main.1f698ab0.chunk.css",
+    "static/js/main.d5284630.chunk.js"
+  ]
+}
